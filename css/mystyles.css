@@ -1,0 +1,10 @@
+body{
+    font-family: cursive;
+    background-color: lightgray;
+}
+h1, h2, h3, .subheading{
+    font-family: cursive !important;
+}
+a:hover{
+    color: rgb(120, 78, 78) !important;
+}
